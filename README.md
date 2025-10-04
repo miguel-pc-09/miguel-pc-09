@@ -3,7 +3,6 @@
        alt="Miguel Ángel Perucha Castelló — Developer"
        width="100%" />
 </p>
-
 ### ¡Hola! 👋
 Soy **Miguel Ángel Perucha Castelló**, estudiante de **2º DAW** y apasionado por el **desarrollo web**.
 
