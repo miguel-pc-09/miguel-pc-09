@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="assets/banner-perfil-con-python.png" alt="Miguel Ángel Perucha Castelló — Junior Developer" width="100%" />
+  <img src="assets/banner-perfil.png"
+       alt="Miguel Ángel Perucha Castelló — Developer"
+       width="100%" />
 </p>
 
 ### ¡Hola! 👋
