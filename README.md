@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-perfil.png"
+  <img src="assets/MIGUEL ÁNGEL PERUCHA CASTELLÓ.png"
        alt="Miguel Ángel Perucha Castelló — Developer"
        width="100%" />
 </p>
