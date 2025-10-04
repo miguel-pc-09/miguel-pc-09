@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-perfil.png"
+  <img src="/banner-perfil.png"
        alt="Miguel Ángel Perucha Castelló — Developer"
        width="100%" />
 </p>
@@ -19,5 +19,5 @@ Soy **Miguel Ángel Perucha Castelló**, estudiante de **2º DAW** y apasionado 
 - 📧 [m.peruchacastello@gmail.com](mailto:m.peruchacastello@gmail.com)
 - 🐙 [GitHub](https://github.com/miguel-pc-09)
 - <a href="https://www.linkedin.com/in/miguel-angel-perucha-castello" target="_blank">
-    <img src="assets/linkedin-icon-24.png" alt="LinkedIn" width="18" height="18" />&nbsp;LinkedIn
+    <img src="/linkedin-icon-24.png" alt="LinkedIn" width="18" height="18" />&nbsp;LinkedIn
   </a>
